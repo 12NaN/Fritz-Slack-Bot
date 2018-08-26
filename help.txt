@@ -1,0 +1,12 @@
+Help
+~~~~
+
+Resources
+~~~~~~~~~
+For Resources type "@fritz Resources", then when you get a response type "@fritz Linux" for Linux resources or "@fritz Python" for Python resources.
+
+Message Me via SMS
+~~~~~~~~~~~~~~~~~~~~~
+If you want to contact me directly and I down answer your Slack messenges, type "@fritz Message Frank", then once you get a response, type "@fritz The message is: ", with your message coming after the colon.
+
+
